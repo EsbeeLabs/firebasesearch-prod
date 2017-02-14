@@ -1,0 +1,12 @@
+{
+  "firebaseConfig": {
+    "serviceAccount": "../service.json",
+    "databaseURL": "https://shoppix-prod.firebaseio.com/"
+  },
+  "algolia": {
+    "applicationID": "MHCXPIVTST",
+    "searchAPIKey": "8d88bd611c9cf62c3b4cfb0ff403540e",
+    "monitoringAPIKey": "583c8b9d4ce9998783b84de6016977e9",
+    "apiKey": "c1334a00913c15daaa274bf3846cad86"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "firebaseConfig": {
+    "serviceAccount": "/your/path/service-account.json",
+    "databaseURL": "https://imageit-4fd5b.firebaseio.com"
+  },
+  "algolia": {
+    "applicationID": "XXXX",
+    "searchAPIKey": "XXXX",
+    "monitoringAPIKey": "XXXX",
+    "apiKey": "XXXX"
+  }
+}

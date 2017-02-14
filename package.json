@@ -1,0 +1,28 @@
+{
+  "name": "esbee-firebase-search",
+  "version": "1.0.2",
+  "description": "Syncing to Algolia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "6.4.0" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsbeeLabs/firebase-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsbeeLabs/firebase-search/issues"
+  },
+  "homepage": "https://github.com/EsbeeLabs/firebase-search#readme",
+  "dependencies": {
+    "firebase-admin": "^4.0.4",
+    "lodash": "^4.17.4",
+    "quiver-firebase-search": "^1.0.4"
+  }
+}
