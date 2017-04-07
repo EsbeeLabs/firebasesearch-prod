@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "shoppix-prod",
-  "private_key_id": "7f77e5bad1ee4982b25643119d14fe0bc7c7b087",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCehomY175MdtzQ\n4R5Rg0ztv/Um/TtpQMn4iq+isfLYeXT4fVXI/AwG/ZgHYbFTDsOo8Zw1FjSIC4U8\nZJYq9ILP1LWoAyp5/oqlZThluL989VNbAku3Y3JFuBvfV3Snhm6+uMgYGJXywP84\nIZz+kgU7ehtIfDX+i5uQaULCr8oAVS10pXUW91EGnguib43B8nnWCi9Cs7xL/3aW\nupfmjzDhjuYvIZf6mEArNFg2KLa4ACfkyVkN59nwuL7yVjDBF+ZcpFtkmulN9Mrh\nIRpWCtql0q8ezKQcqOfPPlhWYRA1X96jZ69wZFDXxTE37fA5DACR9Ardf0Z0cKkd\nAdQM1tMjAgMBAAECggEAWBreDpyZn1XQlCcJ+rPG5bxyPCEyC+V+Wyx5QSs1lSqr\n4A+IxhOPe7Ml87RQIaFrDVJ7RuX4fEQq4M3myCjtKyVFcQORcAwQcqw3FBICGyke\nEs7L1jjnIeiZVR/+Lb2Bf26jhwDjFfA96KyF3Na7IbtTvo2KVNaytyhJenrJAjV0\n+lM7ChxRF9YuXir92S06UWTr8A5XHdDn61FvH91RirqxQmbbUhOx4kS93LJKN2j2\nWr31XbhDAgHGF9OvcFjhnGiZ9Bb/SP9inmscG+fb5Doarft8NHn/6DoGpak+vkEl\nEXdbe39qj9lEUTVJi5F/ELl20GY1GSdt7SiqmDDHAQKBgQDN/5JeEThiTfeQo/da\njzdUqRc0i3g9oc1jSBGsm5tia/DbsZpyD5zLVCN6b+TTB2/2rg7ggJfsSRXYEkFZ\n2SHWRnrKc0xL22iYdhn3C1drgclcXafyvh17mVpkyX5l+v3byReLqv/pSzfQ6NmZ\ng1aqbmlmfEhgMT8/DAwphcUzcQKBgQDFARPW4vIwTwFpXVB5yiC45IjXmGd4SDE/\neMOcD27u2H2DkRgPa7EnNJSavf+xsTczfjfpbeXvm1hmnG2gZOUDLGmer2cbK5lU\nHQBRETWZrPZh71/iV89es1GLiIAf+F+gU0ge6l51RgRg91rFeGZgMBOOqcSNUP4y\nw2BxOgO90wKBgQCZ1hhKY3XGBA+zVp+sY3Ogp74KoXUkIacuU23Ph01dDNsMVe/O\n6lXfinAMSW+LIOy+PXIiuiW6cUH84HUpUfvw9yVP9xatN6c+5EOzuCaKxJvJfK+l\nmdCOsxFMXyUjp3LZJa2Nwh/m6yM9wgZunCSmllnkDUBHhb+Dp82VXK7OIQKBgBqx\neq6zMX26NsbADhdye9yRmrkbvWle3s1q35ZVwQI780XQcyIjxW06gqg09mBtUr13\nbLwEWBOPSPseVvxUr3MuoWEPAzl7PttW0qQpYMnh1cCPXr6ch0ydn374j+PFE6/1\nmOAXgZUCV7WLzpDTL4v4961s82TyhH78WiT9Z2RhAoGADyUIHTllIw9s6R87zF+r\nNBFMDXtSTiayUgpbd7ovZODahDhZYbY2viWG2oGABz1q61jPxXki57SdNEEjyKtj\nRGVh7egn3/T0ROs7XrL5qft3IWgMmRXFxs0/WiKSYKdiNTsDTIeL/PYRpr6V6g3i\nFflkM3ihKD+tBqLBLosx6MU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-hozh3@shoppix-prod.iam.gserviceaccount.com",
-  "client_id": "110670449356424567821",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "private_key_id": "",
+  "private_key": "\n",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "h",
   "token_uri": "https://accounts.google.com/o/oauth2/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hozh3%40shoppix-prod.iam.gserviceaccount.com"
+  "auth_provider_x509_cert_url": ",
+  "client_x509_cert_url": ""
 }
