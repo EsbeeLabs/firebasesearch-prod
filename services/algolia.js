@@ -1,11 +1,12 @@
 var FirebaseSearch = require('quiver-firebase-search');
 var env = require('./environment');
 
-module.exports = function (ref) {
+module.exports = function (ref, overrides) {
+  const config = overrides || {};
   var commentsSearchRef = ref.child('Search/Comments');
   var search = new FirebaseSearch(commentsSearchRef, {
-    algolia: env.algolia
-  }, 'Comments');
+    algolia: config.env ? config.env.algolia : env.algolia
+  }, config.index || 'Comments');
 
   return {
     build: search.algolia.firebase.build.bind(search.algolia.firebase),
